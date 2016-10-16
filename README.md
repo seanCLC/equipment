@@ -18,4 +18,5 @@
 
 ##四、SQL查询语句及截图
 SELECT 设备类别,距离下次保养天数 FROM 设备保养系统模型.warning;  
+
 ![select.jpg](images/select.jpg)
